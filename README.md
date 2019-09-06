@@ -10,7 +10,7 @@ To install the latest version of DECODER package via Github, run following comma
 
 	if (!require("devtools"))
 	   install.packages("devtools")
-	devtools::install_github("jwyang16/DECODER")
+	devtools::install_github("WeiqiangZhou/DECODER",ref="dev")
 
 
 ## Getting Started
